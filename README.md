@@ -38,3 +38,10 @@ An exploration into search algorithms and evaluation functions.
 
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/j-deiver-kenay-hernandez-baltazar-70b2b43ab/)
+
+---
+
+### 📊 My Coding Activity
+![ZugzwangDeiver's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZugzwangDeiver&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZugzwangDeiver&layout=compact&theme=tokyonight&hide_border=true)
